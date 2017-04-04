@@ -1,0 +1,6 @@
+c:\users\xu98826\documents\visual studio 2015\Projects\PublishSubscribeArchitect\PSA_kindle\bin\Debug\PSA_kindle.exe.config
+c:\users\xu98826\documents\visual studio 2015\Projects\PublishSubscribeArchitect\PSA_kindle\bin\Debug\PSA_kindle.exe
+c:\users\xu98826\documents\visual studio 2015\Projects\PublishSubscribeArchitect\PSA_kindle\bin\Debug\PSA_kindle.pdb
+c:\users\xu98826\documents\visual studio 2015\Projects\PublishSubscribeArchitect\PSA_kindle\obj\Debug\PSA_kindle.csprojResolveAssemblyReference.cache
+c:\users\xu98826\documents\visual studio 2015\Projects\PublishSubscribeArchitect\PSA_kindle\obj\Debug\PSA_kindle.exe
+c:\users\xu98826\documents\visual studio 2015\Projects\PublishSubscribeArchitect\PSA_kindle\obj\Debug\PSA_kindle.pdb

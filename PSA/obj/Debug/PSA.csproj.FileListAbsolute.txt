@@ -1,0 +1,6 @@
+c:\users\xu98826\documents\visual studio 2015\Projects\PublishSubscribeArchitect\PSA\bin\Debug\PSA.exe.config
+c:\users\xu98826\documents\visual studio 2015\Projects\PublishSubscribeArchitect\PSA\bin\Debug\PSA.exe
+c:\users\xu98826\documents\visual studio 2015\Projects\PublishSubscribeArchitect\PSA\bin\Debug\PSA.pdb
+c:\users\xu98826\documents\visual studio 2015\Projects\PublishSubscribeArchitect\PSA\obj\Debug\PSA.csprojResolveAssemblyReference.cache
+c:\users\xu98826\documents\visual studio 2015\Projects\PublishSubscribeArchitect\PSA\obj\Debug\PSA.exe
+c:\users\xu98826\documents\visual studio 2015\Projects\PublishSubscribeArchitect\PSA\obj\Debug\PSA.pdb

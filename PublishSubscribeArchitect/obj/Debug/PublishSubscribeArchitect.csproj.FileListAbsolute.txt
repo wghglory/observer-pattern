@@ -1,0 +1,6 @@
+c:\users\xu98826\documents\visual studio 2015\Projects\PublishSubscribeArchitect\PublishSubscribeArchitect\bin\Debug\PublishSubscribeArchitect.exe.config
+c:\users\xu98826\documents\visual studio 2015\Projects\PublishSubscribeArchitect\PublishSubscribeArchitect\bin\Debug\PublishSubscribeArchitect.exe
+c:\users\xu98826\documents\visual studio 2015\Projects\PublishSubscribeArchitect\PublishSubscribeArchitect\bin\Debug\PublishSubscribeArchitect.pdb
+c:\users\xu98826\documents\visual studio 2015\Projects\PublishSubscribeArchitect\PublishSubscribeArchitect\obj\Debug\PublishSubscribeArchitect.csprojResolveAssemblyReference.cache
+c:\users\xu98826\documents\visual studio 2015\Projects\PublishSubscribeArchitect\PublishSubscribeArchitect\obj\Debug\PublishSubscribeArchitect.exe
+c:\users\xu98826\documents\visual studio 2015\Projects\PublishSubscribeArchitect\PublishSubscribeArchitect\obj\Debug\PublishSubscribeArchitect.pdb
